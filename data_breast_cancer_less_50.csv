@@ -1,0 +1,96 @@
+Age-Adjusted SEER Incidence Rates
+By Race and Sex
+Female Breast  Ages < 50  
+1975-2015  (SEER 9)
+
+"Race/Ethnicity","Sex","Year","Rate","Modeled Rate"
+"White","Female","1975",40.7215,40.7142
+"White","Female","1976",40.7901,40.2663
+"White","Female","1977",39.2619,39.8234
+"White","Female","1978",39.3173,39.3853
+"White","Female","1979",38.6104,38.9520
+"White","Female","1980",38.2783,38.5235
+"White","Female","1981",40.0305,39.5493
+"White","Female","1982",41.1948,40.6023
+"White","Female","1983",40.8224,41.6835
+"White","Female","1984",43.1365,42.7934
+"White","Female","1985",44.3495,43.9329
+"White","Female","1986",45.3212,45.1027
+"White","Female","1987",46.4940,46.3036
+"White","Female","1988",44.9188,45.9256
+"White","Female","1989",44.5418,45.5506
+"White","Female","1990",45.3778,45.1787
+"White","Female","1991",47.2744,44.8099
+"White","Female","1992",43.6365,44.4440
+"White","Female","1993",43.2487,44.0812
+"White","Female","1994",42.7999,43.7213
+"White","Female","1995",43.7302,43.8279
+"White","Female","1996",44.0424,43.9348
+"White","Female","1997",44.0718,44.0420
+"White","Female","1998",45.4723,44.1494
+"White","Female","1999",45.0980,44.2571
+"White","Female","2000",43.9906,44.3650
+"White","Female","2001",44.8286,44.4732
+"White","Female","2002",43.5138,44.5817
+"White","Female","2003",44.3283,44.6904
+"White","Female","2004",44.8354,44.7994
+"White","Female","2005",44.5107,44.9087
+"White","Female","2006",45.0935,45.0182
+"White","Female","2007",45.7154,45.1280
+"White","Female","2008",45.5948,45.2381
+"White","Female","2009",46.0162,45.3484
+"White","Female","2010",45.0266,45.4590
+"White","Female","2011",45.5157,45.5699
+"White","Female","2012",44.9171,45.6810
+"White","Female","2013",45.9379,45.7924
+"White","Female","2014",45.5934,45.9041
+"White","Female","2015",46.3195,46.0161
+"Black","Female","1975",42.9685,37.9643
+"Black","Female","1976",38.0489,38.4370
+"Black","Female","1977",37.8733,38.9156
+"Black","Female","1978",39.9862,39.4001
+"Black","Female","1979",37.7624,39.8907
+"Black","Female","1980",37.6856,40.3875
+"Black","Female","1981",38.8644,40.8903
+"Black","Female","1982",38.0151,41.3995
+"Black","Female","1983",41.7963,41.9150
+"Black","Female","1984",44.6622,42.4369
+"Black","Female","1985",45.6878,42.9653
+"Black","Female","1986",45.6432,43.5003
+"Black","Female","1987",43.2602,44.0419
+"Black","Female","1988",42.9968,44.5903
+"Black","Female","1989",42.3295,45.1456
+"Black","Female","1990",49.0523,45.7077
+"Black","Female","1991",51.2929,46.2768
+"Black","Female","1992",46.7502,46.1886
+"Black","Female","1993",45.2891,46.1006
+"Black","Female","1994",47.7379,46.0127
+"Black","Female","1995",45.7274,45.9249
+"Black","Female","1996",44.4354,45.8374
+"Black","Female","1997",44.8664,45.7500
+"Black","Female","1998",47.3231,45.6628
+"Black","Female","1999",44.1112,45.5757
+"Black","Female","2000",44.9665,45.4888
+"Black","Female","2001",39.8489,45.4021
+"Black","Female","2002",41.6712,45.3155
+"Black","Female","2003",43.4827,45.2291
+"Black","Female","2004",48.1291,45.1429
+"Black","Female","2005",45.6869,45.0568
+"Black","Female","2006",45.3037,44.9709
+"Black","Female","2007",45.6407,44.8852
+"Black","Female","2008",45.1876,44.7996
+"Black","Female","2009",45.6565,44.7142
+"Black","Female","2010",44.2764,44.6289
+"Black","Female","2011",48.2911,44.5438
+"Black","Female","2012",42.3321,44.4589
+"Black","Female","2013",41.8314,44.3742
+"Black","Female","2014",45.8011,44.2896
+"Black","Female","2015",45.0043,44.2051
+
+
+"Cancer sites include invasive cases only unless otherwise noted."
+
+"Rates are per 100,000 and are age-adjusted to the 2000 US Std Population (19 age groups - Census P25-1130). Regression lines are calculated using the Joinpoint Regression Program Version 4.6, February 2018, National Cancer Institute."
+
+"Incidence source: SEER 9 areas (San Francisco, Connecticut, Detroit, Hawaii, Iowa, New Mexico, Seattle, Utah, and Atlanta)."
+

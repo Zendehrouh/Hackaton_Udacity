@@ -1,0 +1,55 @@
+Age-Adjusted U.S. Mortality Rates
+By Race and Sex
+Female Breast  Ages < 50  
+1975-2015 
+
+"Race/Ethnicity","Sex","Year","Rate","Modeled Rate"
+"Black","Female","1975",10.6793,10.3105
+"Black","Female","1976",10.2165,10.4929
+"Black","Female","1977",10.5208,10.6785
+"Black","Female","1978",11.3673,10.8675
+"Black","Female","1979",11.3584,11.0597
+"Black","Female","1980",10.8202,11.2554
+"Black","Female","1981",11.4768,11.4545
+"Black","Female","1982",11.1863,11.6571
+"Black","Female","1983",11.1668,11.8633
+"Black","Female","1984",12.5467,12.0732
+"Black","Female","1985",12.0402,12.2868
+"Black","Female","1986",12.8588,12.5042
+"Black","Female","1987",12.9430,12.7254
+"Black","Female","1988",12.7135,12.5774
+"Black","Female","1989",12.4129,12.4311
+"Black","Female","1990",11.9875,12.2866
+"Black","Female","1991",12.3109,12.1437
+"Black","Female","1992",12.0258,12.0025
+"Black","Female","1993",11.6512,11.8629
+"Black","Female","1994",11.7034,11.7249
+"Black","Female","1995",11.7069,11.5886
+"Black","Female","1996",11.7415,11.3081
+"Black","Female","1997",11.0270,11.0344
+"Black","Female","1998",10.6480,10.7673
+"Black","Female","1999",10.2673,10.5067
+"Black","Female","2000",9.9396,10.2524
+"Black","Female","2001",9.8522,10.0043
+"Black","Female","2002",10.0162,9.7622
+"Black","Female","2003",9.6238,9.5259
+"Black","Female","2004",9.2561,9.2953
+"Black","Female","2005",9.4593,9.0704
+"Black","Female","2006",8.8814,8.8508
+"Black","Female","2007",8.5465,8.6366
+"Black","Female","2008",8.2318,8.4276
+"Black","Female","2009",7.9602,8.2236
+"Black","Female","2010",8.0165,8.0246
+"Black","Female","2011",7.8289,7.8304
+"Black","Female","2012",7.8874,7.6408
+"Black","Female","2013",7.3202,7.4559
+"Black","Female","2014",7.5480,7.2754
+"Black","Female","2015",6.9446,7.0994
+
+
+"Cancer sites include invasive cases only unless otherwise noted."
+
+"Rates are per 100,000 and are age-adjusted to the 2000 US Std Population (19 age groups - Census P25-1130). Regression lines are calculated using the Joinpoint Regression Program Version 4.6, February 2018, National Cancer Institute."
+
+"Mortality source: US Mortality Files, National Center for Health Statistics, CDC."
+

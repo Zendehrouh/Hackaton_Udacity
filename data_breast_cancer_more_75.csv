@@ -1,0 +1,96 @@
+Age-Adjusted SEER Incidence Rates
+By Race and Sex
+Female Breast  Ages 65+  
+1975-2015  (SEER 9)
+
+"Race/Ethnicity","Sex","Year","Rate","Modeled Rate"
+"White","Female","1975",335.1418,324.0247
+"White","Female","1976",326.9237,328.5477
+"White","Female","1977",325.5670,333.1339
+"White","Female","1978",326.9491,337.7841
+"White","Female","1979",341.3163,342.4992
+"White","Female","1980",350.0530,347.2801
+"White","Female","1981",362.8799,352.1278
+"White","Female","1982",355.7543,357.0431
+"White","Female","1983",376.9056,378.5491
+"White","Female","1984",398.8199,401.3505
+"White","Female","1985",428.0617,425.5253
+"White","Female","1986",446.2479,451.1563
+"White","Female","1987",486.4220,478.3310
+"White","Female","1988",476.7892,476.3672
+"White","Female","1989",462.3210,474.4114
+"White","Female","1990",469.2048,472.4636
+"White","Female","1991",482.5345,470.5239
+"White","Female","1992",473.9919,468.5921
+"White","Female","1993",460.2652,466.6682
+"White","Female","1994",461.1437,464.7522
+"White","Female","1995",469.4869,462.8441
+"White","Female","1996",462.9951,473.6256
+"White","Female","1997",488.6175,484.6583
+"White","Female","1998",503.0364,495.9480
+"White","Female","1999",499.8444,507.5007
+"White","Female","2000",482.1997,492.4502
+"White","Female","2001",495.4602,477.8461
+"White","Female","2002",471.6005,463.6751
+"White","Female","2003",435.1648,449.9243
+"White","Female","2004",439.7788,436.5814
+"White","Female","2005",435.7857,439.1945
+"White","Female","2006",433.3181,441.8232
+"White","Female","2007",444.6792,444.4676
+"White","Female","2008",443.7385,447.1279
+"White","Female","2009",457.9603,449.8041
+"White","Female","2010",450.2304,452.4964
+"White","Female","2011",464.4238,455.2047
+"White","Female","2012",464.9532,457.9293
+"White","Female","2013",468.4690,460.6701
+"White","Female","2014",459.1758,463.4274
+"White","Female","2015",454.0726,466.2012
+"Black","Female","1975",248.1991,230.4171
+"Black","Female","1976",244.4058,239.0890
+"Black","Female","1977",254.4668,248.0874
+"Black","Female","1978",234.7866,257.4244
+"Black","Female","1979",265.5649,267.1129
+"Black","Female","1980",250.9416,277.1660
+"Black","Female","1981",291.9954,287.5974
+"Black","Female","1982",311.6285,298.4214
+"Black","Female","1983",317.3837,309.6528
+"Black","Female","1984",290.8967,321.3069
+"Black","Female","1985",343.7792,333.3996
+"Black","Female","1986",366.5569,345.9475
+"Black","Female","1987",343.9081,358.9676
+"Black","Female","1988",379.7832,361.2985
+"Black","Female","1989",319.1916,363.6446
+"Black","Female","1990",389.2711,366.0059
+"Black","Female","1991",338.8463,368.3825
+"Black","Female","1992",390.5687,370.7746
+"Black","Female","1993",365.1585,373.1822
+"Black","Female","1994",394.9068,375.6054
+"Black","Female","1995",379.5266,378.0444
+"Black","Female","1996",393.0686,380.4992
+"Black","Female","1997",405.2793,382.9699
+"Black","Female","1998",394.1711,385.4567
+"Black","Female","1999",403.6322,387.9596
+"Black","Female","2000",370.5672,390.4788
+"Black","Female","2001",369.1606,393.0144
+"Black","Female","2002",394.6722,395.5664
+"Black","Female","2003",399.0745,398.1350
+"Black","Female","2004",381.5634,400.7202
+"Black","Female","2005",378.2560,403.3223
+"Black","Female","2006",391.5677,405.9412
+"Black","Female","2007",401.9050,408.5771
+"Black","Female","2008",424.1589,411.2302
+"Black","Female","2009",427.7496,413.9005
+"Black","Female","2010",414.6990,416.5881
+"Black","Female","2011",416.1935,419.2932
+"Black","Female","2012",457.1598,422.0159
+"Black","Female","2013",438.5687,424.7562
+"Black","Female","2014",397.5436,427.5143
+"Black","Female","2015",430.5637,430.2904
+
+
+"Cancer sites include invasive cases only unless otherwise noted."
+
+"Rates are per 100,000 and are age-adjusted to the 2000 US Std Population (19 age groups - Census P25-1130). Regression lines are calculated using the Joinpoint Regression Program Version 4.6, February 2018, National Cancer Institute."
+
+"Incidence source: SEER 9 areas (San Francisco, Connecticut, Detroit, Hawaii, Iowa, New Mexico, Seattle, Utah, and Atlanta)."
+

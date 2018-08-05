@@ -1,0 +1,55 @@
+Age-Adjusted U.S. Mortality Rates
+By Race and Sex
+Female Breast  Ages < 50  
+1975-2015 
+
+"Race/Ethnicity","Sex","Year","Rate","Modeled Rate"
+"White","Female","1975",9.0139,8.6805
+"White","Female","1976",8.6414,8.6292
+"White","Female","1977",8.7499,8.5783
+"White","Female","1978",8.4573,8.5277
+"White","Female","1979",8.3371,8.4774
+"White","Female","1980",8.3888,8.4273
+"White","Female","1981",8.2011,8.3776
+"White","Female","1982",8.1910,8.3282
+"White","Female","1983",7.8931,8.2790
+"White","Female","1984",8.2168,8.2302
+"White","Female","1985",8.2973,8.1816
+"White","Female","1986",8.2646,8.1333
+"White","Female","1987",7.9881,8.0853
+"White","Female","1988",8.0075,8.0376
+"White","Female","1989",8.0582,7.9902
+"White","Female","1990",7.9904,7.9430
+"White","Female","1991",7.7338,7.6498
+"White","Female","1992",7.3697,7.3675
+"White","Female","1993",6.9879,7.0955
+"White","Female","1994",6.9200,6.8336
+"White","Female","1995",6.7995,6.5813
+"White","Female","1996",6.4035,6.3384
+"White","Female","1997",6.2220,6.1044
+"White","Female","1998",5.8189,5.8791
+"White","Female","1999",5.1988,5.6621
+"White","Female","2000",5.3744,5.4531
+"White","Female","2001",5.3593,5.2518
+"White","Female","2002",5.0669,5.0579
+"White","Female","2003",5.0846,4.8712
+"White","Female","2004",4.6726,4.6914
+"White","Female","2005",4.6513,4.6118
+"White","Female","2006",4.5825,4.5336
+"White","Female","2007",4.2842,4.4567
+"White","Female","2008",4.3239,4.3811
+"White","Female","2009",4.4818,4.3067
+"White","Female","2010",4.0748,4.2337
+"White","Female","2011",4.0312,4.1619
+"White","Female","2012",4.1523,4.0913
+"White","Female","2013",4.0724,4.0218
+"White","Female","2014",3.9647,3.9536
+"White","Female","2015",3.9354,3.8865
+
+
+"Cancer sites include invasive cases only unless otherwise noted."
+
+"Rates are per 100,000 and are age-adjusted to the 2000 US Std Population (19 age groups - Census P25-1130). Regression lines are calculated using the Joinpoint Regression Program Version 4.6, February 2018, National Cancer Institute."
+
+"Mortality source: US Mortality Files, National Center for Health Statistics, CDC."
+

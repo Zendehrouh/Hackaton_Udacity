@@ -1,0 +1,55 @@
+Age-Adjusted U.S. Mortality Rates
+By Race and Sex
+Female Breast  Ages 50+  
+1975-2015 
+
+"Race/Ethnicity","Sex","Year","Rate","Modeled Rate"
+"White","Female","1975",91.4210,92.0914
+"White","Female","1976",93.7990,92.5859
+"White","Female","1977",95.3215,93.0830
+"White","Female","1978",93.2869,93.5828
+"White","Female","1979",92.0707,94.0853
+"White","Female","1980",93.5628,94.5905
+"White","Female","1981",94.7655,95.0984
+"White","Female","1982",95.4566,95.6090
+"White","Female","1983",95.8480,96.1224
+"White","Female","1984",97.5461,96.6385
+"White","Female","1985",98.0944,97.1574
+"White","Female","1986",97.5336,97.6791
+"White","Female","1987",96.9305,98.2036
+"White","Female","1988",98.7819,98.7309
+"White","Female","1989",99.1625,99.2610
+"White","Female","1990",98.5495,97.8492
+"White","Female","1991",97.1540,96.4575
+"White","Female","1992",94.4511,95.0856
+"White","Female","1993",94.2004,93.7332
+"White","Female","1994",92.4663,92.4000
+"White","Female","1995",91.0665,91.0858
+"White","Female","1996",88.3467,88.0954
+"White","Female","1997",83.6421,85.2031
+"White","Female","1998",82.5038,82.4057
+"White","Female","1999",80.3979,80.9427
+"White","Female","2000",80.6400,79.5057
+"White","Female","2001",77.9819,78.0942
+"White","Female","2002",77.2753,76.7078
+"White","Female","2003",75.9035,75.3460
+"White","Female","2004",74.3836,74.0083
+"White","Female","2005",72.8337,72.6944
+"White","Female","2006",71.3173,71.4039
+"White","Female","2007",69.8537,70.1362
+"White","Female","2008",68.2336,68.8911
+"White","Female","2009",67.0068,67.6680
+"White","Female","2010",66.5231,66.4667
+"White","Female","2011",65.1837,65.2867
+"White","Female","2012",64.0535,64.1276
+"White","Female","2013",62.7438,62.9892
+"White","Female","2014",62.1070,61.8709
+"White","Female","2015",61.2779,60.7725
+
+
+"Cancer sites include invasive cases only unless otherwise noted."
+
+"Rates are per 100,000 and are age-adjusted to the 2000 US Std Population (19 age groups - Census P25-1130). Regression lines are calculated using the Joinpoint Regression Program Version 4.6, February 2018, National Cancer Institute."
+
+"Mortality source: US Mortality Files, National Center for Health Statistics, CDC."
+
